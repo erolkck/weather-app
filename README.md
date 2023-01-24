@@ -1,4 +1,3 @@
-https://mecitcanyazar.github.io/weather-app/
 
 # Getting Started with Create React App
 
